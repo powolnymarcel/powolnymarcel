@@ -3,7 +3,7 @@
 I'm a PHP 💜, Laravel🧡 , VueJS 💚 & Shopware 6 Developer 💙, Frontend & Backend 💪  
 Learning React - Don't ask me for CSS though...
 
-![](https://i.ibb.co/6J6N48P/php-core-security.gif)
+![](https://i.imgur.com/vT4Oclk.gif)
 
 If you want to work with me, take a look at my [Twitter](https://twitter.com/Marcpowo) or [LinkedIn](https://www.linkedin.com/in/powolny-marcel/).
 

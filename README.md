@@ -1,6 +1,6 @@
 ### Hi there, Marcel here 👋
 
-I'm a PHP 💜, Laravel🧡 , VueJS 💚 & Shopware 6 Developer 💙, Frontend & Backend 💪
+I'm a PHP 💜, Laravel🧡 , VueJS 💚 & Shopware 6 Developer 💙, Frontend & Backend 💪  
 Learning React - Don't ask me for CSS though...
 
 ![](https://i.ibb.co/6J6N48P/php-core-security.gif)

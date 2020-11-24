@@ -7,8 +7,8 @@ Learning React - Don't ask me for CSS though...
 
 If you want to work with me, take a look at my [Twitter](https://twitter.com/Marcpowo) or [LinkedIn](https://www.linkedin.com/in/powolny-marcel/).
 
-- 🔭 I’m currently working on Shopware
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Shopware - Laravel
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate with freelancers, web agencies
 - 📫 How to reach me: info@visuweb.be
 - 😄 Pronouns: Knowledge is power.

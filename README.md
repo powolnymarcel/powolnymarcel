@@ -3,8 +3,6 @@
 I'm a PHP 💜, Laravel🧡 , VueJS 💚 & Prestashop Developer 💙, Frontend & Backend++ 💪  
 Learning Flutter - Don't ask me for CSS though...
 
-![](https://i.imgur.com/vT4Oclk.gif)
-
 If you want to work with me, take a look at my [Twitter](https://twitter.com/Marcpowo) or [LinkedIn](https://www.linkedin.com/in/powolny-marcel/).
 
 - 🔭 I’m currently working on Prestashop - Laravel
@@ -18,5 +16,8 @@ If you want to work with me, take a look at my [Twitter](https://twitter.com/Mar
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/Marcpowo?style=social)](https://twitter.com/Marcpowo)
 [![GitHub followers](https://img.shields.io/github/followers/powolnymarcel?style=social)](https://github.com/powolnymarcel)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/)
+[![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UClYaiydCgz4gl-M-sRUMxfw)
 
 ![Profile views](https://gpvc.arturio.dev/powolnymarcel)
+
+![](https://i.imgur.com/vT4Oclk.gif)
